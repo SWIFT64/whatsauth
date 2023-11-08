@@ -3,13 +3,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Halcyon Wiki',
-  tagline: 'Welcome to the Halcyon Wiki!',
+  title: 'me@herobuxx.me - Free WhatsApp API Gateway',
+  tagline: 'WhatsAuth',
   favicon: 'img/favicon.ico',
-  url: 'https://wiki.hlcyn.me',
+  url: 'https://SWIFT64.github.io',
   baseUrl: '/',
-  organizationName: 'halcyonproject',
-  projectName: 'wiki',
+  organizationName: 'SWIFT64',
+  projectName: 'whatsauth',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -38,14 +38,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Halcyon Wiki',
+        title: 'WhatsAuth',
         logo: {
-          alt: 'Halcyon Logo',
-          src: 'img/logo.png',
+          alt: 'IRC Logo',
+          src: 'img/irc.png',
         },
         items: [
           {
-            href: 'https://hlcyn.me',
+            href: 'https://SWIFT64.github.io',
             label: 'Website',
             position: 'right',
           },
