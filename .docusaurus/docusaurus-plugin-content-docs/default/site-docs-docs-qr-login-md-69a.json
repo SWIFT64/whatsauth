@@ -1,0 +1,23 @@
+{
+  "unversionedId": "docs/qr_login",
+  "id": "docs/qr_login",
+  "title": "QR Code Login",
+  "description": "API whatsauth dapat digunakan untuk pengembangan implementasi SSO, login menggunakan QR. Caranya deploy dahulu JS ini.",
+  "source": "@site/docs/docs/qr_login.md",
+  "sourceDirName": "docs",
+  "slug": "/docs/qr_login",
+  "permalink": "/test/docs/qr_login",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "slug": "/docs/qr_login",
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Pendaftaran WhatsApp Gateway",
+    "permalink": "/test/docs/pendaftaran"
+  }
+}

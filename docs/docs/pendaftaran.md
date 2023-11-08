@@ -1,6 +1,6 @@
 ---
-slug: /docs/persiapan
-sidebar_position: 1
+slug: /docs/pendaftaran
+sidebar_position: 2
 ---
 
 # Pendaftaran WhatsApp Gateway

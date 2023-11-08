@@ -1,0 +1,27 @@
+{
+  "unversionedId": "docs/pendaftaran",
+  "id": "docs/pendaftaran",
+  "title": "Pendaftaran WhatsApp Gateway",
+  "description": "Proses runutan pendaftaran API melalui :",
+  "source": "@site/docs/docs/pendaftaran.md",
+  "sourceDirName": "docs",
+  "slug": "/docs/pendaftaran",
+  "permalink": "/test/docs/pendaftaran",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "slug": "/docs/pendaftaran",
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Persiapan WhatsAuth gateway",
+    "permalink": "/test/docs/persiapan"
+  },
+  "next": {
+    "title": "QR Code Login",
+    "permalink": "/test/docs/qr_login"
+  }
+}

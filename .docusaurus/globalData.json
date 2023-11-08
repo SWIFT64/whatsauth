@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/test/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/test/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "docs/pendaftaran",
+              "path": "/test/docs/pendaftaran",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "docs/persiapan",
+              "path": "/test/docs/persiapan",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "docs/qr_login",
+              "path": "/test/docs/qr_login",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/test/",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/test/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ---
 slug: /docs/qr_login
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # QR Code Login

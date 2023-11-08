@@ -7,7 +7,7 @@ const config = {
   tagline: 'WhatsAuth',
   favicon: 'img/favicon.ico',
   url: 'https://SWIFT64.github.io',
-  baseUrl: '/',
+  baseUrl: '/test',
   organizationName: 'SWIFT64',
   projectName: 'whatsauth',
   onBrokenLinks: 'throw',
@@ -57,26 +57,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Apply Maintainership',
-                to: '/docs/apply',
+                label: 'Persiapan',
+                to: '/docs/persiapan',
               },
               {
-                label: 'Code of Conduct',
-                to: '/docs/maintainers-coc'
+                label: 'Persiapan',
+                to: '/docs/pendaftaran'
               }
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Telegram (Channel)',
-                href: 'https://t.me/hlcynprjct',
-              },
-              {
-                label: 'Telegram (Chat)',
-                href: 'https://t.me/hlcynprjctchat',
-              },
             ],
           },
           {
@@ -84,11 +71,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/halcyonproject'
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/hlcynprjct',
+                href: 'https://github.com/WhatsAuth'
               },
             ],
           },

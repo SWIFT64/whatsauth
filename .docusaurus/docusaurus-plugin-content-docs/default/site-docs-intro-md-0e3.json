@@ -1,0 +1,21 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "WhatsAuth",
+  "description": "WhatsAuth adalah Gateway API WhatsApp untuk integrasi dengan aplikasi anda.secara gratis dan opensource",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/test/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 0,
+    "pagination_next": null,
+    "pagination_prev": null
+  },
+  "sidebar": "defaultSidebar"
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "docs/persiapan",
+  "id": "docs/persiapan",
+  "title": "Persiapan WhatsAuth gateway",
+  "description": "Tahapan ini dilakukan terlebih dahulu sebelum melakukan pendaftaran, hal-hal yang harus dipersiapkan antara lain:",
+  "source": "@site/docs/docs/persiapan.md",
+  "sourceDirName": "docs",
+  "slug": "/docs/persiapan",
+  "permalink": "/test/docs/persiapan",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/docs/persiapan",
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "WhatsAuth",
+    "permalink": "/test/"
+  },
+  "next": {
+    "title": "Pendaftaran WhatsApp Gateway",
+    "permalink": "/test/docs/pendaftaran"
+  }
+}
